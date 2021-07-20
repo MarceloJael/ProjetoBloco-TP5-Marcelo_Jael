@@ -34,4 +34,3 @@
 <p>Professor: <strong>[Júlio Cesar](https://github.com/jcguimaraesnet)</strong></p>
 
 </div>
-
