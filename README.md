@@ -1,5 +1,8 @@
+<div align="center">
+
 ![logo da INFNET](https://github.com/MarceloJael/ProjetoBloco-TP5-Marcelo_Jael/blob/main/icone.png)
 
+</div>
 </br>
 
 <div align="center">
