@@ -31,7 +31,7 @@
 <div align="center">
 
 <p>Aluno: <strong>Marcelo Jael</strong></p>
-<p>Professor: [<strong>Júlio Cesar</strong>](https://github.com/jcguimaraesnet)</p>
+<p>Professor: <strong>[Júlio Cesar](https://github.com/jcguimaraesnet)</strong></p>
 
 </div>
 
