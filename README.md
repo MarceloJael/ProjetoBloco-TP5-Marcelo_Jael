@@ -15,7 +15,7 @@
 <div align="center">
 
 [<p>Teste de performance 4 ➟</p>](https://github.com/MarceloJael/ProjetoBloco-TP5-Marcelo_Jael/blob/main/TP4.md)
-<p>Teste de performance 5 ➟</p>
+[<p>Teste de performance 5 ➟</p>](https://github.com/MarceloJael/ProjetoBloco-TP5-Marcelo_Jael/blob/main/TP5.md)
 
 </div>
 </br>
@@ -31,7 +31,7 @@
 <div align="center">
 
 <p>Aluno: <strong>Marcelo Jael</strong></p>
-<p>Professor: <strong>Júlio Cesar</strong></p>
+<p>Professor: [<strong>Júlio Cesar</strong>](https://github.com/jcguimaraesnet)</p>
 
 </div>
 
