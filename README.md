@@ -1,12 +1,10 @@
 <img src="C:\Users\Marcelo Jael\Desktop\faculdade\icone.png" style="zoom:80%;" />
 
 <center><strong>Projeto de Bloco - Desenvolvimento .NET</strong> </center>
-
-
+</br>
 
 <center><p style="padding: 5px;">Teste de performance 4 ➟</p>
 <p style="padding: 5px">Teste de performance 5 ➟</p></center>
-
 </br>
 
 <center><p><i>Engenharia de software - INFNET</p>
