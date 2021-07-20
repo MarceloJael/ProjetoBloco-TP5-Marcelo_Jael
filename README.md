@@ -8,15 +8,17 @@
 </br>
 <div align="center">
 
-<p style="padding: 5px;">Teste de performance 4 ➟</p>
-<p style="padding: 5px">Teste de performance 5 ➟</p>
+<p>Teste de performance 4 ➟</p>
+<p>Teste de performance 5 ➟</p>
 
 </div>
 </br>
 
 <div align="center">
-<p><i>Engenharia de software - INFNET</p>
-<p>2021</i></p>
+  
+<p><i>Engenharia de software - INFNET</i></p>
+<p><i>2021</i></p>
+  
 </div>
 </br>
 
