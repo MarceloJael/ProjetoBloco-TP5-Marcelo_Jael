@@ -1,9 +1,10 @@
-<img src="C:\Users\Marcelo Jael\Desktop\faculdade\icone.png" style="zoom:80%;" />
+![logo da INFNET](URL da imagem)
+
 </br>
 
 <div align="center">
 
-#<strong>Projeto de Bloco - Desenvolvimento .NET</strong>
+# **Projeto de Bloco - Desenvolvimento .NET**
 
 </div>
 </br>
